@@ -1,0 +1,1 @@
+A React-based Role-Based Access Control (RBAC) dashboard for managing users, roles, and permissions. Features include adding/editing users, assigning roles, dynamic permissions, and mock API simulations for CRUD operations. Built with a responsive and intuitive UI, it ensures seamless and secure access management across devices.
